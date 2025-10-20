@@ -1,10 +1,5 @@
 # Plano de Aula — JOINS em Banco de Dados (SQL)
 
-> **Público-alvo:** ADS / Téc. Informática (nível iniciante–intermediário)  
-> **Duração:** 90–120 min  
-> **Objetivo geral:** compreender e aplicar tipos de *JOIN* para consultar dados entre múltiplas tabelas.
-
----
 
 ## 1) Objetivos de Aprendizagem
 
